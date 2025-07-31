@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Thia ia Hestia 
+## This ia Hestia 
 
 ![Hestia's Github stats](https://github-readme-stats.vercel.app/api?username=hestiaahmadi&show_icons=true&theme=midnight-purple)
 
