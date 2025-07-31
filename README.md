@@ -6,6 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hestiaahmadi)
 [![Instagram](https://img.shields.io/badge/LinkedIn/Instagram-red?logo=instagram)](https://instagram.com/hestia05.coder)
+[![Email](https://img.shields.io/badge/Email-red?logo=email)](mailto:ahmadi.dev05@gmail.com)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,github)](https://skillicons.dev)
 
