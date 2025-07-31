@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 ## This ia Hestia 
+## I am 20 years old.
+## I am on the path to learning REACT.
+
 
 ![Hestia's Github stats](https://github-readme-stats.vercel.app/api?username=hestiaahmadi&show_icons=true&theme=midnight-purple)
 
