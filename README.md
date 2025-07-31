@@ -2,7 +2,7 @@
 
 ## This ia Hestia 
 
-![Hestia's Github stats](https://github-readme-stats.vercel.app/api?username=hestiaahmadi&show_icons=true&theme=midnight-purple)
+![Hestia's Github stats](https://github-readme-stats.vercel.app/api?username=hestiaahmadi&show_icons=true&theme=midnight-cherryred)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hestiaahmadi)
 [![Instagram](https://img.shields.io/badge/LinkedIn/Instagram-red?logo=instagram)](https://instagram.com/hestia05.coder)
